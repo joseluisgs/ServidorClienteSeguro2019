@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://foxmacbookpro:8181/ServicioWebSeguro/ServicioWebSeguro?wsdl" uri="wsdl/foxmacbookpro_8181/ServicioWebSeguro/ServicioWebSeguro.wsdl"/>
+    <system systemId="https://foxmacbookpro:8181/ServicioWebSeguro/ServicioWebSeguro?xsd=1" uri="wsdl/foxmacbookpro_8181/ServicioWebSeguro/ServicioWebSeguro.xsd_1.xsd"/>
+</catalog>
